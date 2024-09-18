@@ -1,0 +1,17 @@
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/OrderApi.Application.deps.json
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/OrderApi.Application.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/OrderApi.Application.pdb
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.AssemblyInfoInputs.cache
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.AssemblyInfo.cs
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.csproj.CoreCompileInputs.cache
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/refint/OrderApi.Application.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.pdb
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/ref/OrderApi.Application.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/eCommerce.SharedLibrary.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/OrderApi.Domain.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/eCommerce.SharedLibrary.pdb
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/bin/Debug/net8.0/OrderApi.Domain.pdb
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.Application.csproj.AssemblyReference.cache
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerc.OrderApiSolution/OrderApi.Application/obj/Debug/net8.0/OrderApi.A1672EEC.Up2Date

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway.Presentation", "ApiGateway.Presentation\ApiGateway.Presentation.csproj", "{43567BFA-9C03-4F66-9A1E-39F4AF9002A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerce.SharedLibrary", "..\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\eCommerce.SharedLibrary.csproj", "{02866E6C-D611-4F71-A4CF-7EF3B33F44AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43567BFA-9C03-4F66-9A1E-39F4AF9002A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43567BFA-9C03-4F66-9A1E-39F4AF9002A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43567BFA-9C03-4F66-9A1E-39F4AF9002A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43567BFA-9C03-4F66-9A1E-39F4AF9002A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02866E6C-D611-4F71-A4CF-7EF3B33F44AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02866E6C-D611-4F71-A4CF-7EF3B33F44AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02866E6C-D611-4F71-A4CF-7EF3B33F44AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02866E6C-D611-4F71-A4CF-7EF3B33F44AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

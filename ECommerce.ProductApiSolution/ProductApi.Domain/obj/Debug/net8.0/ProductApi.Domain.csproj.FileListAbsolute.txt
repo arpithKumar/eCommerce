@@ -1,0 +1,11 @@
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.deps.json
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/bin/Debug/net8.0/ProductApi.Domain.pdb
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfoInputs.cache
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.AssemblyInfo.cs
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.csproj.CoreCompileInputs.cache
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/refint/ProductApi.Domain.dll
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ProductApi.Domain.pdb
+/Users/arpithkumardubey/Documents/raider_workspace/ECommerce_solution/ECommerce.ProductApiSolution/ProductApi.Domain/obj/Debug/net8.0/ref/ProductApi.Domain.dll
